@@ -1,4 +1,4 @@
-# Controlador LED Multi-Modo: Morse, Blink y Efecto Pulso con NeoPixel 🚥
+# Practica 3 pulsadores ( Controlador LED SOS, Blink y Efecto Pulso )
 
 ---
 
