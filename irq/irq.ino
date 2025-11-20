@@ -11,7 +11,10 @@ int BTN_PULSO = 6;
 
 int BTN_IRQ = 7;
 
+
 bool bandera = false;
+
+
 
 
 
@@ -57,6 +60,8 @@ void loop() {
 
     delay(200);
   }
+
+
 
   
 }
@@ -159,7 +164,12 @@ void largo() {
   colorearRGB(random(0, 256), random(0, 256), random(0, 256));
   delay(400);
 
-  
+  check();
+  if (bandera) {
+
+    return;
+  }
+
   analogWrite(LED_PIN, 0);
   colorearRGB(0, 0, 0);
   delay(100);
@@ -177,6 +187,12 @@ void corto() {
   analogWrite(LED_PIN, 255);
   colorearRGB(random(0, 256), random(0, 256), random(0, 256));
   delay(200);
+
+  check();
+  if (bandera) {
+
+    return;
+  }
 
   
   analogWrite(LED_PIN, 0);
