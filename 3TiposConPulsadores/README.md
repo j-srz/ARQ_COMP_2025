@@ -1,5 +1,11 @@
 # Practica 3 pulsadores ( Controlador LED SOS, Blink y Efecto Pulso )
 
+##  Instituto Tecnológico de Aguascalientes (ITA)
+### Materia: Arquitectura de Computadoras
+#### Equipo:
+* **García Castorena José Guadalupe**
+* **Suárez Licea Jesús**
+
 ---
 
 ## Introducción

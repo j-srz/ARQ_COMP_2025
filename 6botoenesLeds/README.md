@@ -1,6 +1,14 @@
-## Práctica 4: Memorias 1 (Batalla Naval Binaria) 🕹️
+## Práctica 4: Memorias 1 (Batalla Naval Binaria) 
+
+##  Instituto Tecnológico de Aguascalientes (ITA)
+### Materia: Arquitectura de Computadoras
+#### Equipo:
+* **García Castorena José Guadalupe**
+* **Suárez Licea Jesús**
 
 ---
+
+
 
 ## Introducción
 
@@ -74,7 +82,7 @@ Una vez que el juego finaliza, la función **`restablecer()`** se ejecuta despu�
 
 ##  Demostración en Video
 
-https://www.youtube.com/watch?v=bKW5_UoGtM0
+https://youtu.be/sodvpyU2JWc
 
 ## Conocimientos Adquiridos
 

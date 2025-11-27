@@ -1,5 +1,11 @@
 # Plactica IRQ ( Interrupción ) 
+##  Instituto Tecnológico de Aguascalientes (ITA)
+### Materia: Arquitectura de Computadoras
+#### Equipo:
+* **García Castorena José Guadalupe**
+* **Suárez Licea Jesús**
 
+---
 ## Introducción
 
 Este proyecto es una evolución proyecto anterior, añadiendo una característica fundamental en sistemas embebidos: la **Interrupción (IRQ) por Software**.

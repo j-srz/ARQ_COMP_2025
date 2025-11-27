@@ -1,5 +1,12 @@
 # Secuencial
 
+##  Instituto Tecnológico de Aguascalientes (ITA)
+### Materia: Arquitectura de Computadoras
+#### Equipo:
+* **García Castorena José Guadalupe**
+* **Suárez Licea Jesús**
+
+---
 ## Introducción
 
 Este proyecto implementa una secuencia automática de patrones de luz utilizando un LED RGB NeoPixel y un LED estándar monocromático. A diferencia de versiones más complejas, este código utiliza una arquitectura **secuencial lineal**. 

@@ -1,5 +1,11 @@
 # IRQ+Memoria
+##  Instituto Tecnológico de Aguascalientes (ITA)
+### Materia: Arquitectura de Computadoras
+#### Equipo:
+* **García Castorena José Guadalupe**
+* **Suárez Licea Jesús**
 
+---
 ## Introducción
 
 Este proyecto implementa un sistema de control de iluminación LED (RGB NeoPixel y LED estándar) basado en una lógica de **multitarea cooperativa simulada**. El objetivo principal es resolver el problema clásico de los "tiempos de espera bloqueantes" (como `delay()`), permitiendo que el microcontrolador siga respondiendo a las entradas del usuario mientras ejecuta animaciones complejas.

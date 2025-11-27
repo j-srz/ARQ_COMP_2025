@@ -1,5 +1,11 @@
 #  Señal S.O.S. (Código Morse)
+##  Instituto Tecnológico de Aguascalientes (ITA)
+### Materia: Arquitectura de Computadoras
+#### Equipo:
+* **García Castorena José Guadalupe**
+* **Suárez Licea Jesús**
 
+---
 ##  Introducción
 
 Este proyecto implementa la señal internacional de socorro **S.O.S.** del Código Morse a través de un LED. La secuencia, **3 pulsos cortos** (S), **3 pulsos largos** (O), **3 pulsos cortos** (S), se repite continuamente después de una pausa inicial.
