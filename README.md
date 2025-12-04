@@ -18,5 +18,7 @@
 5.  **[--Práctica 5: Interrupción por Software (IRQ+Memoria)](https://github.com/j-srz/ARQ_COMP_2025/tree/master/irq-pausa)**
 6.  **[--Práctica 6: Memorias_1](https://github.com/j-srz/ARQ_COMP_2025/tree/master/6botoenesLeds)**
 
+7.  **[--Práctica 7: Memorias_2](https://github.com/j-srz/ARQ_COMP_2025/tree/master/Memorias_2)**
+
 
 ---

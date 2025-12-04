@@ -284,7 +284,6 @@ void restablecer() {
 
 void presionarBtn() {
 
-  // Tono de 1200 Hz por 100 ms
   tone(buzzerPin, 1200, 100);
   delay(100);
   noTone(buzzerPin); 
@@ -297,11 +296,11 @@ void ganar() {
   
 
   int notas[] = {523, 659, 784, 1047};
-  int duracionNota = 150; // Duración de cada nota en ms
+  int duracionNota = 150; 
   
   for (int i = 0; i < 4; i++) {
     tone(buzzerPin, notas[i], duracionNota);
-    delay(duracionNota + 20); // Pausa ligeramente más larga que la nota
+    delay(duracionNota + 20); 
   }
   noTone(buzzerPin);
 }
